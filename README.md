@@ -8,13 +8,13 @@
 ### 🚀 O que estou construindo
 
 <p align="left">
-  🤖 <strong>IA & Cloud:</strong><br />
+  🤖 <strong>IA:</strong><br />
   Aprofundando em IA Generativa, RAG e agentes inteligentes.
 </p>
 
 <p align="left">
-  💻 <strong>Jornada Full-stack:</strong><br />
-  Evoluindo do front-end para o desenvolvimento completo de aplicações.
+  💻 <strong>Jornada:</strong><br />
+  Evoluindo no front-end e desenvolvimento completo.
 </p>
 
 <p align="left">
